@@ -1,0 +1,9 @@
+[
+    {
+        "item":"input",
+        "class":"form-control",
+        "placeholder":"test input",
+        "type":"text",
+        "maxlength":50
+    }
+]
