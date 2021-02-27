@@ -5,5 +5,26 @@
         "placeholder":"test input",
         "type":"text",
         "maxlength":50
+    },
+    {
+        "item":"label",
+        "class":"form-label",
+        "for":"chebox_1",
+        "text":"checkbox"
+    },
+    {
+        "item":"input",
+        "class":"form-control",
+        "placeholder":"test checkbox",
+        "type":"checkbox",
+        "id":"chebox_1",
+        "maxlength":50
+    },
+    {
+        "item":"button",
+        "class":"btn btn-outline-danger",
+        "type":"submit",
+        "text":"submit"
     }
+    
 ]
